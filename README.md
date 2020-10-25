@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://imagizer.imageshack.com/img922/1373/5WiSDy.gif">
  
 # Welcome!
  
-## I'm Olavo! Let me present a little about myself 😄!
+## I'm Olavo! Let me present a little about myself :D!
  
-… Insira suas descrições aqui!
+… working with Power BI
+CRM Tools and python
+Today I work in the controllership of the company supporting sales personnel 
+Marketing
+Services
  
  
 ## About me 
