@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **olavo69/olavo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 # Welcome!
  
-## I'm Olavo! Let me present a little about myself :D!
+## I'm Olavo! Let me present a little about myself 👋!
  
 … working with Power BI
 CRM Tools and python
