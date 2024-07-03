@@ -22,11 +22,7 @@ Here are some ideas to get you started:
  
 ## I'm Olavo! Let me present a little about myself 👋!
  
-… working with Power BI
-CRM Tools and python
-Today I work in the controllership of the company supporting sales personnel 
-Marketing
-Services
+
  
  
 ## About me 
