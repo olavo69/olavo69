@@ -16,9 +16,9 @@ Profissional com sólida experiência em **Análise de Dados e Business Intellig
 
 - 📊 Lidero a análise de portfólio de produtos na **CNH Industrial**, integrando GA4 e Search Console em dashboards no **Power BI** e **Looker**
 - 🤖 Construo automações de ponta a ponta com **Power Automate**, **Python (Selenium/Scrapy)** e **LangChain**, reduzindo ciclos de processamento de dias para horas
-- 🎓 Instrutor de BI, Dados e Cloud Computing no **Centro Universitário Facens**
+- 🎓 Instrutor de BI, Dados **Centro Universitário Facens**
 - 🧩 Background sólido em **CRM Dynamics 365**, gestão ágil (Azure DevOps/Jira) e arquitetura de dados
-- 📍 Sorocaba, SP — Brasil
+
 
 <br/>
 
