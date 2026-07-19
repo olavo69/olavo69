@@ -44,8 +44,8 @@ Profissional com sólida experiência em **Análise de Dados e Business Intellig
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=olavo69&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavo69&layout=compact&theme=dracula&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=olavo69&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavo69&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" />
 
 </div>
 
